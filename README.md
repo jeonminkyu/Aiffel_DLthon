@@ -6,8 +6,8 @@
 ---
 
 ## 파일 구성
-1. DLthon_JellyBob.pdf : 발표자료
-2. JellyBob_Final_Notebook.ipynb : 종합 노트북
+1. DL_THON_JellyBob.pdf : 발표자료
+2. DL_THON_jellybob.ipynb : 종합 노트북
 3. 폴더 team_members_notebooks : 팀원 개별 모델 구현 및 학습 노트북 
 
 
