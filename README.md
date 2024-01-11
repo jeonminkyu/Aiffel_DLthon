@@ -1,13 +1,15 @@
-# [DLton] JellyBob Repository
+# [2024_DLton] JellyBob Repository
 
+## Jellyfish Image Classfication
 <Jellyfish - 해파리 종 분류하기!> kaggle dataset을 이용한 해파리 종 분류
 
 ---
 
 ## 파일 구성
-1. JellyBob.pptx : 발표자료
-2. Final_Notebook.ipynb : 모델 종합 노트북
-3. 개별 Notebook 폴더 : 팀원 모델 구현 및 학습 노트북 
+1. DLthon_JellyBob.pdf : 발표자료
+2. JellyBob_Final_Notebook.ipynb : 종합 노트북
+3. 폴더 team_members_notebooks : 팀원 개별 모델 구현 및 학습 노트북 
+
 
 ## 평가문항
 1. 적합한 로스와 메트릭을 사용하여 훈련이 이루어졌는가?
