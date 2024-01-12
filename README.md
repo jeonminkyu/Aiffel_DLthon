@@ -6,8 +6,8 @@
 ---
 
 ## 파일 구성
-1. DLthon_JellyBob.pdf : 발표자료
-2. JellyBob_Final_Notebook.ipynb : 종합 노트북
+1. DL_THON_JellyBob.pdf : 발표자료
+2. DL_THON_jellybob.ipynb : 종합 노트북
 3. 폴더 team_members_notebooks : 팀원 개별 모델 구현 및 학습 노트북 
 
 
@@ -20,3 +20,4 @@
 
 3. 훈련 결과 및 제품화 가능성에 대한 탐색이 이루어졌는가?
     - 데이터과 모델에 대한 구성 및 훈련 비용과 성능, 모델을 제품화한다면 응용분야와 강점 및 개선사항 대해 정량적, 정성적 분석을 진행하였는지?
+## 주피터 노트북에 개선사항및 모델활용방안 추가하기
