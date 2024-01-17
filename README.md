@@ -7,9 +7,14 @@
 
 ## Team JellyBob
 - 이슬 [github@seulwithlove](https://github.com/seulwithlove)
+  - 팀장 Project Manager
+  - 모델학습, 발표자료 준비 Model training, Preparation of presentation materials
 - 김양희 [github@claireyy01](https://github.com/claireyy01)
+  - 모델학습, 분석 내용 정리, 발표자료 준비 Model training, Results analysis, and summarization, Preparation of presentation materials
 - 이승환 [github@leeseunghwan0409](https://github.com/leeseunghwan0409)
+  - 모델학습, 성능개선 Model training, Performance improvement
 - 전민규 [github@jeonminkyu](https://github.com/jeonminkyu)
+  - 모델학습, 성능개선 Model training, Performance improvement
 
 
 ## Notion DB 
