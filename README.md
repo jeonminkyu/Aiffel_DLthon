@@ -14,7 +14,7 @@
 - 이승환 [github@leeseunghwan0409](https://github.com/leeseunghwan0409)
   - 모델학습, 성능개선 Model training, Performance improvement
 - 전민규 [github@jeonminkyu](https://github.com/jeonminkyu)
-  - 모델학습, 성능개선 Model training, Performance improvement
+  - 모델학습, 성능개선, 종합 노트북 준비 Model training, Performance improvement, Preparation of final project notebook
 
 
 ## Notion DB 
